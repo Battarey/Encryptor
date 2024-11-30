@@ -1,0 +1,10 @@
+﻿  Metods.cpp
+D:\Programming\CPP\EncryptorTrue\Metods.cpp(92,20): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+D:\Programming\CPP\EncryptorTrue\Metods.cpp(107,20): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+D:\Programming\CPP\EncryptorTrue\Metods.cpp(128,20): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+D:\Programming\CPP\EncryptorTrue\Metods.cpp(143,20): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+D:\Programming\CPP\EncryptorTrue\Metods.cpp(163,20): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+D:\Programming\CPP\EncryptorTrue\Metods.cpp(178,20): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  Source.cpp
+  Создание кода...
+  EncryptorTrue.vcxproj -> D:\Programming\CPP\EncryptorTrue\x64\Debug\EncryptorTrue.exe
